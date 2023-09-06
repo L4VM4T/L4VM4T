@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Laura
-- 👀 I’m interested in ...food & knowledge
-- 🌱 I’m currently learning ...data science 
+- 👋 Hi, I’m Laura and I'm a mathematician
+- 👀 I’m interested in ...Quantum Computation & Quantum Algorithm Design
+- 🌱 I’m currently learning ...and will never stop 
 - 💞️ I’m looking to collaborate on ...interesting issues
 - 📫 How to reach me ...send me a msg!
 

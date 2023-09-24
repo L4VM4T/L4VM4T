@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Laura and I'm a mathematician
-- 👀 I’m interested in ...Quantum Computation & Quantum Algorithm Design
+- 👋 Hi, I’m Laura and I'm a mathematician & Quantum Algorithm Researcher
+- 👀 I’m interested in ...Food & Knowledge
 - 🌱 I’m currently learning ...and will never stop 
 - 💞️ I’m looking to collaborate on ...interesting issues
 - 📫 How to reach me ...send me a msg!

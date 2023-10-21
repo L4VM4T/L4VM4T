@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laura and I'm a mathematician & Quantum Algorithm Researcher
+- 👋 Hi, I’m Laura and I'm a mathematician & quantum algorithm researcher
 - 👀 I’m interested in ...Food & Knowledge
 - 🌱 I’m currently learning ...and will never stop 
 - 💞️ I’m looking to collaborate on ...interesting issues

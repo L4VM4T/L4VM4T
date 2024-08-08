@@ -10,8 +10,8 @@ My name is Laura, I graduated in Mathematical Sciences from Complutense Universi
 - **Master’s in Quantum Technology** - Polytechnic University of Madrid (currently enrolled in)
 - **Bachelor's Degree in Mathematical Sciences** - Complutense University of Madrid 
   - Dissertation: "Diffusive Logistic Equation and Its Applications to Ecology"
-
-I have been pursuing parallel training, obtaining several certificates such as Womanium Quantum Computing + AI, Qiskit Fall Fest 2023, and QWorld's QBronce and QNickel certificates.
+    
+I am also continuously pursuing parallel training, obtaining numerous certificates such as Womanium Quantum Computing + AI, Qiskit Fall Fest 2023, and QWorld's QBronce and QNickel certificates.
 
 ## 📝Research
 

@@ -11,10 +11,7 @@ My name is Laura, I graduated in Mathematical Sciences from Complutense Universi
 - **Bachelor's Degree in Mathematical Sciences** - Complutense University of Madrid 
   - Dissertation: "Diffusive Logistic Equation and Its Applications to Ecology"
 
-I have also undergone parallel training, and I have numerous certificates in this regard:
-- Womanium Quantum Computing + AI
-- Qiskit Fall Fest 2023
-- QWorld Certificates: QBronce, QNickel
+I have been pursuing parallel training, obtaining several certificates such as Womanium Quantum Computing + AI, Qiskit Fall Fest 2023, and QWorld's QBronce and QNickel certificates.
 
 ## 📝Research
 

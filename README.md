@@ -2,7 +2,7 @@
 
 ## 🌺 About Me
 
-My name is Laura, I graduated in Mathematical Sciences from Complutense University of Madrid and I have a deep passion for research in Quantum Computer Science. I embarked on this innovative field in January 2023, focusing on the paradigm of quantum annealing. My work has involved developing quantum algorithms and continuously improving their implementation, contributing to the advancement and practical application of these emerging technologies. In October 2024, I will begin a Master's in Quantum Computing Technology at the Polytechnic University of Madrid.
+My name is Laura, I graduated in Mathematical Sciences from Complutense University of Madrid and I have a deep passion for research in Quantum Computer Science. I embarked on this innovative field in January 2023, focusing on the paradigm of quantum annealing. My work has involved developing quantum algorithms and continuously improving their implementation, contributing to the advancement and practical application of these emerging technologies. In September 2024, I joined the Quantum Computing group at the Quantum Research Center in TII, Abu Dhabi. In October 2024, I began a Master's in Quantum Computing Technology at the Polytechnic University of Madrid.
 
 
 ## 📚 Education and Experience
@@ -13,7 +13,7 @@ My name is Laura, I graduated in Mathematical Sciences from Complutense Universi
     
 I am also continuously pursuing parallel training, obtaining numerous certificates such as Womanium Quantum Computing + AI, Qiskit Fall Fest 2023, and QWorld's QBronce and QNickel certificates.
 
-## 📝Research
+## 📝Research 
 
 ### Performance of Binary-Integer Encodings in an Ising Machine
 Analysis of the state of the art of key concepts in annealing algorithmics with a special impact on solution quality.

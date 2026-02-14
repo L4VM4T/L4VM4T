@@ -15,10 +15,12 @@ I am also continuously pursuing parallel training, obtaining numerous certificat
 
 ## 📝Research 
 
-### Performance of Binary-Integer Encodings in an Ising Machine
+### Characterization and calibration of quantum devices
+
+### Performance of binary-integer encodings in an Ising Machine
 Analysis of the state of the art of key concepts in annealing algorithmics with a special impact on solution quality.
 
-### Estimation of Hyperparameters in an Ising-Type Hamiltonian
+### Estimation of hyperparameters in an Ising-Type Hamiltonian
 Identifying the optimal range for hyperparameters in Ising-type Hamiltonians, crucial for tuning constraint intensities and improving solution quality. It involved analyzing how varying these parameters impacts solution performance and exploring practices used by quantum annealing companies to manage them effectively.
 
 
